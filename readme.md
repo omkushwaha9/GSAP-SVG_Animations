@@ -18,3 +18,6 @@ About this project
 
 This project features an innovative animation of a line designed to separate two pages. The line behaves dynamically, akin to a guitar string. When the cursor approaches the line, it is magnetically attracted towards the cursor. Conversely, as the cursor moves away, the line automatically returns to its original position with a bouncing animation, resembling the motion of a guitar string. This interactive element adds a visually appealing and engaging effect to the user interface.
 
+<h1>
+by OM KUSHWAHA
+</h1>
