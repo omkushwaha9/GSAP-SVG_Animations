@@ -11,8 +11,6 @@ Each element and attribute in SVG files can be animated</br>
 SVG is a W3C recommendation</br>
 SVG integrates with other standards, such as CSS, DOM, XSL and JavaScript</br>
 </br>
-</br>
-</br>
 
 <h2>
 About this project
