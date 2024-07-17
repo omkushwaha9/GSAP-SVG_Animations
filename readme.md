@@ -1,10 +1,9 @@
 # GSAP SVG Animation 
 
 <h1>
-
+What is SVG?
 </h1>
 
-What is SVG?
 SVG stands for Scalable Vector Graphics
 SVG is used to define vector-based graphics for the Web
 SVG defines graphics in XML format
